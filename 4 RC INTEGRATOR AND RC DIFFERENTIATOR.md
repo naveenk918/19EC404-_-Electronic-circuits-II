@@ -22,12 +22,15 @@
 
 # Tabulation
 
+![WhatsApp Image 2025-11-28 at 10 05 38 PM](https://github.com/user-attachments/assets/403e30fa-cffd-4c86-99ac-d45562a24326)
 
 # Graph
+![WhatsApp Image 2025-11-28 at 10 05 38 PM (1)](https://github.com/user-attachments/assets/46ffa2b3-3b68-4b0a-a0d0-4315a1dc4925)
 
 
-# Sample images 
+
 
 
 # Result
 
+Thus different linear wave shaping circuits are studied and their output waveforms are plotted.
