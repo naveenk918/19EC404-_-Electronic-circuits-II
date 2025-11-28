@@ -14,11 +14,13 @@
 
 # Tabulation
 
+![WhatsApp Image 2025-11-28 at 10 07 43 PM](https://github.com/user-attachments/assets/006a5c13-2417-4990-8405-7e403ab3e93f)
 
 # Graph
 
+![WhatsApp Image 2025-11-28 at 10 07 44 PM](https://github.com/user-attachments/assets/c2201661-a4c5-456f-9430-8d40496c0702)
 
-# Sample images 
 
 
 # Result
+Thus the verification of positive and negative clamper circuits is hence verified.
