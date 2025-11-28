@@ -6,11 +6,13 @@
 
 # Circuit Diagram 
 
+<img width="1920" height="1080" alt="Screenshot 2025-11-28 141943" src="https://github.com/user-attachments/assets/5070c0f1-d68b-4d02-805a-9ec25b0d5722" />
 
 
 # Output Graph
 
+<img width="1920" height="1080" alt="Screenshot 2025-11-28 142004" src="https://github.com/user-attachments/assets/9c808c68-3974-42ce-9bbf-27bc7066b0f7" />
 
 
 # Result
-
+Thus the simulation of Twin T Oscillator using LTSpice is done and verified successfully.
